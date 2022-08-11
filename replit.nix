@@ -1,0 +1,37 @@
+{ pkgs }: {
+	deps = [
+		pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc8
+  pkgs.clear
+  pkgs.clang_12
+		pkgs.ccls
+		pkgs.gdb
+		pkgs.gnumake
+	];
+}

@@ -27,6 +27,14 @@
   pkgs.gcc
   pkgs.gcc
   pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
+  pkgs.gcc
   pkgs.gcc8
   pkgs.clear
   pkgs.clang_12
